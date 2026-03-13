@@ -1,4 +1,4 @@
-# AI Railway Surveillance System
+# PERCEPTRA - AI Railway Surveillance System
 
 AI-based surveillance system that detects unattended bags in crowded public environments such as railway stations using computer vision.
 
